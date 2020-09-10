@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/LinkedIn-Prashant-blue)](https://www.linkedin.com/in/prashantshukla15)
 [![](https://img.shields.io/badge/HackerRank-anshul2910-brightgreen)](https://www.hackerrank.com/prashantshukla15)
 [![](https://img.shields.io/badge/Gmail-pshukla@gmail.com-red)](mailto:shukla.prashant689@gmail.com)
+[![](https://img.shields.io/badge/Twitter-Marshall-blue)](https://twitter.com/CicadaMaster)
+[![](https://img.shields.io/badge/Website-prashantshukla.codes-important)](www.prashantshukla.codes)
 
 ## About Me:
-<h4>I'm a keen learner and want to gain experience, collaborate and build amazing products.</h4>
-
-
+<h4>I'm pursuing MCA and currently exploring Data Science.And loved to collaborate and build amazing products.
+Feel free to contact me.</h4>
 
 ![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=prashantlv&hide=["issues"]&show_icons=true)
 
