@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/HackerRank-prashantshukla-brightgreen)](https://www.hackerrank.com/prashantshukla15)
 [![](https://img.shields.io/badge/Gmail-pshukla@gmail.com-red)](mailto:shukla.prashant689@gmail.com)
 [![](https://img.shields.io/badge/Twitter-Marshall-blue)](https://twitter.com/CicadaMaster)
-[![](https://img.shields.io/badge/Website-prashantshukla.codes-important)](www.prashantshukla.codes)
+[![](https://img.shields.io/badge/Website-prashantshukla.codes-important)](https://www.prashantshukla.codes)
 
 ## About Me:
 <h4>I'm pursuing MCA and currently exploring Data Science.And loved to collaborate and build amazing products.
