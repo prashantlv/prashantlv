@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 Feel free to contact me.</h4>
 
 ![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=prashantlv&hide=["issues"]&show_icons=true)
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantlv&hide_border=true&theme=buefy" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=prashantlv.prashantlv)
 
