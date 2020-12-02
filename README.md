@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ## About Me:
 <h4>I'm pursuing MCA and currently exploring Data Science.And loved to collaborate and build amazing products.
 Feel free to contact me.</h4>
-
-![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=prashantlv&hide=["issues"]&show_icons=true)
+<!--
+![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=prashantlv&hide=["issues"]&show_icons=true) -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=prashantlv.prashantlv)
 
