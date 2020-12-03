@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/HackerRank-prashantshukla-brightgreen)](https://www.hackerrank.com/prashantshukla15)
 [![](https://img.shields.io/badge/Gmail-shukla.prashant689@gmail.com-red)](mailto:shukla.prashant689@gmail.com)
 [![](https://img.shields.io/badge/Website-prashantshukla.codes-important)](https://www.prashantshukla.codes)
-<!--[![Prashant Shukla's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/prashantlv)
 
 ## About Me:
 <h4>I'm pursuing MCA and currently exploring Data Science.And loved to collaborate and build amazing products.
