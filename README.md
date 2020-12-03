@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/HackerRank-prashantshukla-brightgreen)](https://www.hackerrank.com/prashantshukla15)
 [![](https://img.shields.io/badge/Gmail-shukla.prashant689@gmail.com-red)](mailto:shukla.prashant689@gmail.com)
 [![](https://img.shields.io/badge/Website-prashantshukla.codes-important)](https://www.prashantshukla.codes)
+[![Prashant Shukla's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/prashantlv)
 
 ## About Me:
 <h4>I'm pursuing MCA and currently exploring Data Science.And loved to collaborate and build amazing products.
 Feel free to contact me.</h4>
 
-![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=prashantlv&hide=["issues"]&show_icons=true)
 ![Prashant's Github languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantlv&hide_border=true&theme=buefy)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=prashantlv.prashantlv)
 
