@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![](https://img.shields.io/badge/Twitter-prashant3302-blue)](https://twitter.com/prashant3302)
+[![](https://img.shields.io/badge/Twitter-prashant3302-blue)](https://twitter.com/G9_Maverick)
 [![](https://img.shields.io/badge/LinkedIn-Prashant-blue)](https://www.linkedin.com/in/prashantshukla15)
 <!--[![](https://img.shields.io/badge/HackerRank-prashantshukla-brightgreen)](https://www.hackerrank.com/prashantshukla15) -->
 [![](https://img.shields.io/badge/Website-prashantshukla.me-important)](https://www.prashant-shukla.me)
