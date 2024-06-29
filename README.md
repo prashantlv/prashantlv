@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Gmail-shukla.prashant689@gmail.com-red)](mailto:shukla.prashant689@gmail.com)
 
 ## About Me:
-<h4>I'm currently working as Jr. Data Scientist in a AI Startup and exploring Data Science world. And loved to collaborate and build amazing products.
+<h4>I'm currently working as Data Scientist with an AI Startup and exploring Data Science world. And loved to collaborate and build amazing products.
 Feel free to contact me.</h4>
 <!--
 ![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=prashantlv&hide=["issues"]&show_icons=true) -->
